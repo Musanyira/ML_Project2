@@ -1,6 +1,6 @@
- **README.md** for your **Honey Yield Prediction** project using **Streamlit** and **Machine Learning**.
+ **README.md** for  **Honey Yield Prediction** project using **Streamlit** and **Machine Learning**.
 
-### **Example `README.md` for Your Project**:
+### `README.md` for my Project**:
 
 
 # Honey Yield Prediction App
